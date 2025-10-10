@@ -3,6 +3,6 @@
 
 
 int main(int argc, char *argv) {
-  const int inputFile =
+  std::string inputFile = 
   return 0;
 }
