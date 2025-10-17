@@ -1,0 +1,146 @@
+
+--- Usuario 0 ---
+
+Predicción para Item 11:
+  Vecinos seleccionados (2):
+    Usuario 6 (similitud: 0.608, rating: 4.405)
+    Usuario 5 (similitud: 0.369, rating: 1.576)
+  Cálculo: (3.260) / (0.977) = 3.336
+
+Predicción para Item 18:
+  Vecinos seleccionados (2):
+    Usuario 6 (similitud: 0.608, rating: 4.955)
+    Usuario 5 (similitud: 0.369, rating: 0.995)
+  Cálculo: (3.380) / (0.977) = 3.459
+
+Predicción para Item 20:
+  Vecinos seleccionados (2):
+    Usuario 5 (similitud: 0.369, rating: 1.990)
+    Usuario 4 (similitud: 0.223, rating: 1.102)
+  Cálculo: (0.980) / (0.592) = 1.656
+
+--- Usuario 1 ---
+
+Predicción para Item 4:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.213, rating: 2.960)
+    Usuario 6 (similitud: 0.132, rating: 2.839)
+  Cálculo: (1.006) / (0.345) = 2.914
+
+Predicción para Item 21:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.213, rating: 0.276)
+    Usuario 6 (similitud: 0.132, rating: 1.539)
+  Cálculo: (0.262) / (0.345) = 0.758
+
+--- Usuario 2 ---
+
+Predicción para Item 22:
+  Vecinos seleccionados (2):
+    Usuario 8 (similitud: 0.331, rating: 4.661)
+    Usuario 9 (similitud: 0.144, rating: 4.003)
+  Cálculo: (2.118) / (0.475) = 4.461
+
+--- Usuario 3 ---
+
+Predicción para Item 0:
+  Vecinos seleccionados (2):
+    Usuario 7 (similitud: 0.293, rating: 0.970)
+    Usuario 0 (similitud: 0.216, rating: 0.817)
+  Cálculo: (0.461) / (0.509) = 0.905
+
+Predicción para Item 8:
+  Vecinos seleccionados (2):
+    Usuario 7 (similitud: 0.293, rating: 1.945)
+    Usuario 0 (similitud: 0.216, rating: 3.481)
+  Cálculo: (1.323) / (0.509) = 2.597
+
+--- Usuario 4 ---
+
+Predicción para Item 9:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.223, rating: 1.302)
+    Usuario 6 (similitud: 0.219, rating: 0.552)
+  Cálculo: (0.410) / (0.441) = 0.930
+
+Predicción para Item 22:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.223, rating: 1.571)
+    Usuario 6 (similitud: 0.219, rating: 2.734)
+  Cálculo: (0.947) / (0.441) = 2.147
+
+--- Usuario 5 ---
+
+Predicción para Item 12:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.369, rating: 0.345)
+    Usuario 6 (similitud: 0.340, rating: 2.946)
+  Cálculo: (1.129) / (0.709) = 1.592
+
+Predicción para Item 15:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.369, rating: 2.752)
+    Usuario 6 (similitud: 0.340, rating: 2.844)
+  Cálculo: (1.983) / (0.709) = 2.796
+
+--- Usuario 6 ---
+
+Predicción para Item 3:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.608, rating: 1.314)
+    Usuario 5 (similitud: 0.340, rating: 3.112)
+  Cálculo: (1.857) / (0.948) = 1.959
+
+Predicción para Item 8:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.608, rating: 3.481)
+    Usuario 5 (similitud: 0.340, rating: 3.962)
+  Cálculo: (3.464) / (0.948) = 3.654
+
+Predicción para Item 20:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.608, rating: 1.656)
+    Usuario 5 (similitud: 0.340, rating: 1.990)
+  Cálculo: (1.684) / (0.948) = 1.776
+
+Predicción para Item 23:
+  Vecinos seleccionados (2):
+    Usuario 0 (similitud: 0.608, rating: 0.325)
+    Usuario 5 (similitud: 0.340, rating: 0.623)
+  Cálculo: (0.409) / (0.948) = 0.432
+
+--- Usuario 7 ---
+
+Predicción para Item 2:
+  Vecinos seleccionados (2):
+    Usuario 3 (similitud: 0.293, rating: 3.795)
+    Usuario 1 (similitud: 0.093, rating: 1.194)
+  Cálculo: (1.223) / (0.386) = 3.169
+
+Predicción para Item 13:
+  Vecinos seleccionados (2):
+    Usuario 3 (similitud: 0.293, rating: 1.184)
+    Usuario 1 (similitud: 0.093, rating: 0.251)
+  Cálculo: (0.370) / (0.386) = 0.959
+
+Predicción para Item 17:
+  Vecinos seleccionados (2):
+    Usuario 3 (similitud: 0.293, rating: 0.760)
+    Usuario 1 (similitud: 0.093, rating: 3.258)
+  Cálculo: (0.525) / (0.386) = 1.361
+
+Predicción para Item 22:
+  Vecinos seleccionados (2):
+    Usuario 3 (similitud: 0.293, rating: 1.505)
+    Usuario 1 (similitud: 0.093, rating: 3.966)
+  Cálculo: (0.810) / (0.386) = 2.097
+
+Predicción para Item 23:
+  Vecinos seleccionados (2):
+    Usuario 3 (similitud: 0.293, rating: 1.338)
+    Usuario 1 (similitud: 0.093, rating: 1.257)
+  Cálculo: (0.509) / (0.386) = 1.319
+
+--- Usuario 8 ---
+
+--- Usuario 9 ---
