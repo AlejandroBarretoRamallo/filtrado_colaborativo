@@ -189,10 +189,4 @@ El directorio incluye varios archivos de prueba:
 - `utility-matrix-50-250-1.txt`: 50 usuarios, 250 ítems
 - `utility-matrix-100-1000-1.txt`: 100 usuarios, 1000 ítems
 
-## Autor
 
-Proyecto desarrollado como parte del curso de Gestión del Conocimiento en Organizaciones (GCO).
-
-## Licencia
-
-Este proyecto es de código abierto y está disponible para fines educativos.
